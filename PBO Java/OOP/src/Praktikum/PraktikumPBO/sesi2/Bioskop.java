@@ -144,7 +144,7 @@ public class Bioskop {
             if (ulang.equalsIgnoreCase("y")) {
                 pesanTiket(scanner);
             }
-        } while (ulang.equalsIgnoreCase("y"));
+        } while (ulang.equa1lsIgnoreCase("y"));
     }
 
     private static void tampilkanStruk(String film, int jumlahTiket, int totalHarga, int uangTunai, int kembalian) {
