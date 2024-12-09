@@ -1,4 +1,4 @@
-package Praktikum.PraktikumPBO.sesi4;
+package Praktikum.PraktikumPBO.sesi3;
 
 public class BilanganPrima {
     public static void main(String[] args) {

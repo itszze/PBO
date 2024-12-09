@@ -1,6 +1,6 @@
-package Praktikum.PraktikumPBO.sesi4;
+package Praktikum.PraktikumPBO.sesi3;
 import java.util.Scanner;
-//Program IF dengan dua kondisi
+// Program IF dengan dua kondisi
 public class CekKelulusan {
     public static void main(String[] args) {
         // Membuat variabel dan scanner
@@ -18,5 +18,8 @@ public class CekKelulusan {
         } else {
             System.out.println("Maaf " + nama + ", Anda Gagal");
         }
+
+        // Menutup scanner
+        scan.close();
     }
 }

@@ -1,4 +1,4 @@
-package Praktikum.PraktikumPBO.sesi3;
+package Praktikum.PraktikumPBO.sesi2;
 
 public class Logika {
 

@@ -1,4 +1,4 @@
-package Praktikum.PraktikumPBO.sesi2;
+package Praktikum.PraktikumPBO.sesi1;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -144,7 +144,8 @@ public class Bioskop {
             if (ulang.equalsIgnoreCase("y")) {
                 pesanTiket(scanner);
             }
-        } while (ulang.equa1lsIgnoreCase("y"));
+        } while (ulang.equalsIgnoreCase("y"));
+
     }
 
     private static void tampilkanStruk(String film, int jumlahTiket, int totalHarga, int uangTunai, int kembalian) {

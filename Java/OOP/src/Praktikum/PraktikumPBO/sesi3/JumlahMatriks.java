@@ -1,4 +1,4 @@
-package Praktikum.PraktikumPBO.sesi4;
+package Praktikum.PraktikumPBO.sesi3;
 
 public class JumlahMatriks {
     public static void main(String[] args) {
