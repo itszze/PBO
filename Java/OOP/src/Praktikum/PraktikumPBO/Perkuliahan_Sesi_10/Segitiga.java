@@ -1,4 +1,4 @@
-package Praktikum.PraktikumPBO.Perkuliahan_Sesi_9;
+package Praktikum.PraktikumPBO.Perkuliahan_Sesi_10;
 
 public class Segitiga {
     float alas;
