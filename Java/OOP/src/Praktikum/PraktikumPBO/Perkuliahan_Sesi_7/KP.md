@@ -1,1 +1,0 @@
-kp guys ditanggal 4
